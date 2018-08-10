@@ -31,3 +31,5 @@ MIT
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 - [Poly UI Kit](https://github.com/Guilh/Poly)
 - [CodePen](http://codepen.io/michaelsboost)
+
+[![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0)](https://ko-fi.com/michaelsboost)
